@@ -1,5 +1,6 @@
 <?php
       include "includes/header.php";
+      //include "includes/server.php";
    ?>
  
            <div id="wrapper">
@@ -20,8 +21,8 @@
                             <center>Dashboard</center>
                             <small></small>
                         </h1>
-                        <ol class="breadcrumb">
-                            <li>
+                        <ol class="breadcrumb" >
+                            <li >
                                  <a href="index.php">Dashboard</a>
                             </li>
                             
@@ -39,3 +40,6 @@
    <?php 
       include "includes/footer.php";               
    ?>
+
+
+
